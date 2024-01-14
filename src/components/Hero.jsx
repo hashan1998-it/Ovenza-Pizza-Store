@@ -2,7 +2,7 @@
 
 function Hero() {
   return (
-    <div className="max-w-[1640px] mx-auto p-4">
+    <div className="max-w-[1640px] mx-auto p-4 mt-16">
         <div className="relative max-h-[500px]">
             {/* Overlay with Text */}
             <div className="absolute top-0 bg-black/50 w-full h-full text-white text-3xl sm:text-5xl md:text-6xl flex flex-col justify-center px-4 font-bold">
